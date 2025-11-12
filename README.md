@@ -268,7 +268,7 @@ anime-sketch-enhancer/
 ├── app.py                    # Main application
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
-├── Report_APR_Group_19.pdf       # Report            
+├── Report_APR_Group_19.pdf   # Report            
 ```
 
 ---
